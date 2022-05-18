@@ -1,9 +1,6 @@
 # 2022 © Copyright by M. M. Vlasko #
 
 def fallout1():
-    from tkinter.ttk import Radiobutton
-    from tkinter import messagebox
-
     def returni2():
         rasherec3()
         home()
@@ -548,7 +545,6 @@ def fallout3():
                             asd5.place(x=90, y=30)
                             btnx = Button(win3, text="ВЫПОЛНИТЬ", command=ex)
                             btnx.place(x=10, y=60)
-                            win3.mainloop()
 
     def f3():
         def cccc():
